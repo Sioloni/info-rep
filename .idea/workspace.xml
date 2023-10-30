@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac9d384a-c166-40b6-a625-e6fcd4da9b8d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/info.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build-app/deploy.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build-app/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build-app/inventory.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../material-block-article-service-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../material-block-article-service-api/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../material-block-article-service-api/src/main/java/ru/neotoria/gempl/microservices/api/MaterialBlockArticleApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../material-block-article-service-impl/src/main/java/ru/neotoria/gempl/microservices/domain/mapper/MaterialBlockArticleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../material-block-article-service-impl/src/main/java/ru/neotoria/gempl/microservices/domain/mapper/MaterialBlockArticleStructureMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../material-block-article-service-impl/src/main/java/ru/neotoria/gempl/microservices/domain/service/MaterialBlockArticleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../material-block-article-service-impl/src/main/java/ru/neotoria/gempl/microservices/domain/service/MaterialBlockArticleStructureService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../material-block-article-service-impl/src/main/java/ru/neotoria/gempl/microservices/web/MaterialBlockArticleController.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XTiFqJ3wXEu9Eh9yF4N878xRfc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac9d384a-c166-40b6-a625-e6fcd4da9b8d" name="Changes" comment="" />
+      <created>1698659370723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698659370723</updated>
+      <workItem from="1698659372126" duration="32000" />
+      <workItem from="1698659408823" duration="1000" />
+      <workItem from="1698659559819" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
